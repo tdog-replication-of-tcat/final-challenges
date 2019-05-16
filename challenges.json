@@ -1,37 +1,43 @@
 [
 	{
 		"name":"Cliff",
-		"desc":"",
+		"desc":"Base64是一種基於64個可列印字元來表示二進位資料的表示方法，小智障在網路上取得了一串疑似Base64編碼的東東，你能把它還原嗎？",
 		"flag":""
 	},
 	{
 		"name":"Elroy",
-		"desc":"",
+		"desc":"「網頁圖片常常是網站載入緩慢的原因之一，而文字、字串通常是載入速最快的，所幸我們可以透過Base64編碼技術將圖片進行編碼，下方有一組經過編碼後的圖片，您能幫忙看看這張圖片的內容是什麼嗎?」你真ㄉ知道你在公三小ㄇ，不管啦，給我解開。",
+		"file":"http://crs.tdog.tx.rs/file/Elroy",
 		"flag":""
 	},
 	{
 		"name":"Harriet",
-		"desc":"",
+		"desc":"幫我算sha3-256。",
+		"file":"http://crs.tdog.tx.rs/file/Harriet",
 		"flag":""
 	},
 	{
 		"name":"Ian",
-		"desc":"",
+		"desc":"公司網管人員利用封包監控查詢出某位員工正在上網，您能查出這個網站的秘密嗎?",
+		"file":"http://crs.tdog.tx.rs/Ian",
 		"flag":""
 	},
 	{
 		"name":"Clara",
-		"desc":"",
+		"desc":"這個網址有弱密碼，請嘗試找出密碼，並找出秘密資訊。",
+		"file":"http://crs.tdog.tx.rs/Clara.php",
 		"flag":""
 	},
 	{
 		"name":"Crystal",
-		"desc":"",
+		"desc":"請嘗試破解以下網站的密碼，並找出秘密資訊",
+		"file":"http://crs.tdog.tx.rs/Crystal.php",
 		"flag":""
 	},
 	{
 		"name":"Amy",
-		"desc":"",
+		"desc":"請嘗試著對以下弱點網址進行XSS攻擊,成功攻擊後如下圖所示，若成功達成請將攻擊網址?後的東西以Base64編碼後填入作答系統中",
+		"file":"http://crs.tdog.tx.rs/Amy.php?value=PG1zZyBtZXNzYWdlPSJIZWxsbyIgLz4=",
 		"flag":""
 	},
 	{
