@@ -82,8 +82,9 @@
 	},
 	{
 		"name":"Tab",
-		"desc":"",
-		"flag":""
+		"desc":"為了提供網站傳輸的安全，運用HTTPS加密流量是一個常見的解決方案，請查看以下網站的憑證內容，將憑證到期日填入答題系統中(請以以YYYYMMDD方式填入，如2019年5月17日到期，請填入20160517。)",
+		"file":"https://github.com/tdog-replication-of-tcat/final-web",
+		"flag":"20200603"
 	},
 	{
 		"name":"Upton",
