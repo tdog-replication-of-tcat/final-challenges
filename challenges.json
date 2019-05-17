@@ -57,7 +57,7 @@
 	},
 	{
 		"name":"RC4",
-		"desc":"RC4 是目前常見的加密方法之一，某天網管人員收到一串加密後的字串"U2FsdGVkX1/BMWHSm1kpxaYJ+ygaUa63wBEgD2gaGNnjReLZtlujYSI9W6mKTHaLsA6hLvPdvkVWGcWfF4+yawyh2eAwC7CL+mjFQE7tNw2dApQ="與金鑰 “TDog2019Key”，您能夠協助網管解出這個祕密嗎",
+		"desc":"RC4 是目前常見的加密方法之一，某天網管人員收到一串加密後的字串\"U2FsdGVkX1/BMWHSm1kpxaYJ+ygaUa63wBEgD2gaGNnjReLZtlujYSI9W6mKTHaLsA6hLvPdvkVWGcWfF4+yawyh2eAwC7CL+mjFQE7tNw2dApQ=\"與金鑰\"TDog2019Key\”，您能夠協助網管解出這個祕密嗎",
 		"flag":"a33be80a25a2d45be3209ff010ed905a"
 	},
 	{
@@ -103,7 +103,7 @@
 	},
 	{
 		"name":"AES",
-		"desc":"AES 是目前常見的加密方法之一，某天網管人員收到一串加密後的字串"U2FsdGVkX1/uwjChXN/v8F/Cj3DFcHEFqTIy7MlR84gvJeEw/HaUeMpP5Fh39wsy7qFTvFCulzCMf5dh6fVbxZdvczfCLWxe8olt6hzFEiIivJSlWMcVmcFBDKkzni6s"與金鑰 “TDog2019Key”，您能夠協助網管解出這個祕密嗎",
+		"desc":"AES 是目前常見的加密方法之一，某天網管人員收到一串加密後的字串\"U2FsdGVkX1/uwjChXN/v8F/Cj3DFcHEFqTIy7MlR84gvJeEw/HaUeMpP5Fh39wsy7qFTvFCulzCMf5dh6fVbxZdvczfCLWxe8olt6hzFEiIivJSlWMcVmcFBDKkzni6s\"與金鑰\"TDog2019Key\"，您能夠協助網管解出這個祕密嗎",
 		"flag":"b7f47efcf343cbc06733605b4277b273"
 	},
 	{
