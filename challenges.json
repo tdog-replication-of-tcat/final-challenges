@@ -47,8 +47,8 @@
 	},
 	{
 		"name":"DES",
-		"desc":"",
-		"flag":""
+		"desc":"DES 是目前常見的加密方法之一，某天網管人員收到一串加密後的字串\"U2FsdGVkX19/MwqYI4BKASDfeVrKHGpu14nsON/guRfYPRQeO5in35HkfMImtwXBD0SVPbv4Cthr1tc/kTWOOzYjirixqWz/H4FIIvk6bM5Gl43GYMi2KQ==\"與金鑰\"TDog2019Key\”，您能夠協助網管解出這個祕密嗎",
+		"flag":"44a64e0137599fd92740de1a6dbd7790"
 	},
 	{
 		"name":"Emely",
